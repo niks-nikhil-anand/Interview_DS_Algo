@@ -1,4 +1,6 @@
 // Leetcode :- https://leetcode.com/problems/binary-search/description/
+// Coding-Ninja :- https://www.codingninjas.com/studio/problems/binary-search_972
+// Geeks-For-Geeks :- https://practice.geeksforgeeks.org/problems/binary-search-1587115620/1
 
 // Binary Search
 // Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
