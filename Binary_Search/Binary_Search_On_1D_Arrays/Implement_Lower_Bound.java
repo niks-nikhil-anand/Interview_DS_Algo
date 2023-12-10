@@ -8,6 +8,7 @@
 // smallest index 'idx' such that the value 'arr[idx]' is not less than 'x'
 
 
+
 public class Solution {
     public static int lowerBound(int []arr, int n, int x) {
         int start = 0;
