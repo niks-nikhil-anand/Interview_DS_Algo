@@ -1,5 +1,7 @@
 // Implement Upper Bound
 
+// Coding Ninja :- https://www.codingninjas.com/studio/problems/implement-upper-bound_8165383
+
 // Problem statement :- You are given a sorted array 'arr' of distinct values and a target value 'm'.
 // You need to search for the index of the target value in the array.
 

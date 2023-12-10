@@ -1,5 +1,8 @@
 // Search Insert Position
 
+// Leetcode :- https://leetcode.com/problems/first-bad-version/description/
+// Coding Ninja :- https://www.codingninjas.com/studio/problems/algorithm-to-find-best-insert-position-in-sorted-array_839813
+
 // Problem Statement :- Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 // You must write an algorithm with O(log n) runtime complexity.
 
@@ -29,6 +32,8 @@ class Solution {
 
 
 // Similar Problem :- First Bad Version
+
+// Leetcode :- https://leetcode.com/problems/first-bad-version/description/
 
 // Problem Statement :- You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.
 // Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.
